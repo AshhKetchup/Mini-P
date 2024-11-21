@@ -13,7 +13,7 @@ def main():
     required_desc = ""
     # text_desc = rakim_function()
 
-    # required_desc = hersh_function()
+    # required_desc = om_function()
     req_ind = get_best_match(text_desc, required_desc)
     print(req_ind)
 
