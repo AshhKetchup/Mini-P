@@ -15,7 +15,9 @@ def main():
     # text_desc = rakim_function()
 
     # required_desc = om_function()
+
     required_desc = multi_level_cot("open a parcel")
+
     req_ind = get_best_match(text_desc, required_desc)
     print(req_ind)
 
