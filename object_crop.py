@@ -29,4 +29,4 @@ def crop_and_save_objects(image_path, output_dir):
 
 input_image = "test.webp"
 
-crop_and_save_objects(input_image, output_dir)
+# crop_and_save_objects(input_image, output_dir)
