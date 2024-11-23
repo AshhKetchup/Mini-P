@@ -137,7 +137,3 @@ The project consists of two main flows:
 ## **License** 📜
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Let me know if you'd like any customization or additional features for the README!
