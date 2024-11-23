@@ -1,5 +1,3 @@
-Here’s an example of a cool and detailed `README.md` for your **Semester 5 Mini Project** based on the diagram you provided:
-
 ---
 
 # 🧠 Semantic Matching for Task-Specific Object Detection 🚀
