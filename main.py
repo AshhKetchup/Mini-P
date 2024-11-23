@@ -12,7 +12,7 @@ def main():
     crop_and_save_objects(path, output_dir)
     
 
-    required_desc=multi_level_cot("Open A Parcel")
+    required_desc=multi_level_cot("Keep the water warm")
 
     folder_path = './cropped_objects'
 
