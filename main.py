@@ -9,7 +9,7 @@ def main():
     path = input("enter the path of the image: ")
     output_dir = "cropped_objects"
     # os.makedirs(output_dir, exist_ok=True)
-    # crop_and_save_objects(path, output_dir)
+    crop_and_save_objects(path, output_dir)
     
 
     required_desc=multi_level_cot("Open A Parcel")
