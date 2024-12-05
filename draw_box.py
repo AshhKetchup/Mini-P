@@ -23,8 +23,8 @@ def draw_box_on_image(image_path, coords, output_path):
     y_min, y_max = min(y1, y2), max(y1, y2)
 
     # Draw the rectangle on the image (blue color, thickness 2)
-    cv2.rectangle(image, (x_min, y_min), (x_max, y_max), (255, 0, 0), 2)
+    cv2.rectangle(image, (x_min, y_min), (x_max, y_max), (255, 0, 0), 5)
 
     # Save the updated image
-    cv2.imwrite(output_path, image)
-    print(f"Updated image saved to {output_path}")
+    cv2.imwrite(f"{image_path}_selected.jpeg", image)
+    print(f"Updated image saved to {image_path}_selected")

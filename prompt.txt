@@ -1,0 +1,20 @@
+- Scissors: two sharp blades, handles, plastic/metal
+- Knife: sharp blade, handle, metal
+- Box cutter: sharp blade recessed into handle, plastic/metal
+- Key: specific shape for lock, metal
+- Coin: smooth, round surface, metal
+- Credit card: magnetic strip, plastic
+- Spoon: sharp edge, rounded bowl, metal
+- Fork: sharp tines, handle, metal
+- Pen: sharp point, plastic/metal
+- Pencil: sharp point, wood/plastic, graphite core
+- Screwdriver: handle, shaft with slotted/Phillips head, metal
+- Flathead screwdriver: flat tip, metal
+- Phillips head screwdriver: cross-shaped tip, metal
+- Allen key: hexagonal tip, metal
+- Torx key: star-shaped tip, metal
+- Butter knife: blunt blade, sharp edge, metal
+- Spatula: flat blade, sharp edge, metal/plastic
+- Nail file: rough surface, sharp edge, metal/glass
+- Pliers: two handles, jaws, metal
+- Tweezers: two handles, pointed tips, metal

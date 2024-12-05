@@ -6,6 +6,7 @@ model = YOLO("yolov8m.pt")
 
 
 output_dir = "cropped_objects"
+
 os.makedirs(output_dir, exist_ok=True)
 
 

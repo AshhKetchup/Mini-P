@@ -13,8 +13,8 @@ def main():
     output_dir = "cropped_objects"
     # os.makedirs(output_dir, exist_ok=True)
     crop_and_save_objects(path, output_dir)
-
-    required_desc = multi_level_cot("Keep the water warm")
+    prompt = input("Prompt: ")
+    required_desc = multi_level_cot(prompt)
     folder_path = "./cropped_objects"
 
     # Iterate through the folder
